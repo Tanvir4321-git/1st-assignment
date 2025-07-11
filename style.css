@@ -65,8 +65,11 @@ nav{
     background-color: rgb(241, 10, 10);
 }
 /* section-2 */
+.sec-bg{
+    background-color: #F5F8FF;
+}
 .action{
-    margin: 116px 0px;
+    padding: 116px 0px;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -107,7 +110,7 @@ nav{
     padding: 50px 80px;
     border-radius: 24px;
     background-color: #4E47FF1A;
-    margin-bottom: 137px;
+    
 }
 .joined-user h2{
     text-align: center;
@@ -140,3 +143,56 @@ nav{
     text-align: center;
 
 }
+/* section-3 */
+.user-say h1{
+    color: #252432;
+    text-align: center;
+    font-family: Raleway;
+    font-size: 42px;
+    margin-bottom: 50px;
+    padding-top: 137px;
+}
+.card{
+   display: flex;
+   gap: 20px;
+}
+.single-card{
+    background-color: #ffffff;
+    border-radius: 14px;
+    padding: 10px;
+    width: 30%;
+}
+.single-card svg{
+   margin: 10px 0px;
+
+}
+.single-card h2{
+     font-family: Raleway;
+     font-size: 22px;
+     margin-bottom: 10px;
+    
+}
+.single-card p{
+    margin-bottom: 10px;
+    font-family: inter;
+
+}
+
+.person{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+.person img{
+    border-radius: 50%;
+}
+.person h3 {
+    font-size: 18px;
+    font-family: Raleway;
+    margin-top: 10px;
+    color:#757575 ;
+}
+.person{
+    color: #b3b3b3;
+}
+/* section-4 */
