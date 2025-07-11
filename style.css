@@ -103,3 +103,40 @@ nav{
     border-radius: 48px;
     
 }
+.joined-user{
+    padding: 50px 80px;
+    border-radius: 24px;
+    background-color: #4E47FF1A;
+    margin-bottom: 137px;
+}
+.joined-user h2{
+    text-align: center;
+    font-family: Raleway;
+    font-size: 38px;
+    font-weight: 700;
+    color: #252432;
+    margin-bottom: 40px;
+
+}
+.numbers{
+    display: flex;
+    justify-content: center;
+    gap: 158px;
+   
+    
+    
+}
+.single h1{
+    font-family: Inter;
+    color: #4E47FF;
+    font-size: 80px;
+    font-weight: 700;
+    
+}
+.single p{
+    color: #00000080;
+    font-family: inter;
+    font-size: 20px;
+    text-align: center;
+
+}
